@@ -6,7 +6,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 cd ~/code/<your_github_nickname>
 git git@github.com:andrerferrer/455-dom-and-events.git my-js-project
 cd my-js-project
-rm -rf .git
+
 yarn install
 stt # Open this folder in Sublime Text
 ```
